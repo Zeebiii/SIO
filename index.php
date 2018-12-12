@@ -1,3 +1,7 @@
+<?php
+    include("view/menu.php")
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
