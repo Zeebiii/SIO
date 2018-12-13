@@ -8,16 +8,16 @@
 </head>
 <body>
 
-    <ul>
-        <li>
-            les matieres
-            <ul>
-                <li>SI1</li>
-                <li>SI2</li>
-                <li>SI3</li>
-                <li>SI4</li>
-                <li>Algorithmique Appliquer</li>
-            </ul>
+    <ul class="menu">
+        <li class="dropdown">
+            <a class="drop">Les matières</a>
+            <div class="dropList">
+                <a href="view/matiere/si1.php">SI1</a>
+                <a href="view/matiere/si2.php">SI2</a>
+                <a href="view/matiere/si3.php">SI3</a>
+                <a href="view/matiere/si4.php">SI4</a>
+                <a href="view/matiere/algoApp.php">Algorithmique Appliquer</a>
+            </div>
         </li>
         <li>
             Forum
@@ -26,3 +26,5 @@
 
 </body>
 </html>
+
+
