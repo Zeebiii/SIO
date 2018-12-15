@@ -16,7 +16,7 @@
                 <a href="view/matiere/si2.php">SI2</a>
                 <a href="view/matiere/si3.php">SI3</a>
                 <a href="view/matiere/si4.php">SI4</a>
-                <a href="view/matiere/algoApp.php">Algorithmique Appliquer</a>
+                <a href="view/matiere/algoApp.php">Algorithmique Appliquée</a>
             </div>
         </li>
         <li>

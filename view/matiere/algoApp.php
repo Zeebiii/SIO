@@ -12,7 +12,7 @@
     <div id="content">
         <div id="titreMat">
             <h2>
-                <i class="fas fa-angle-double-right arrowTitre"></i> Algorithmique Appliquer <i class="fas fa-angle-double-left arrowTitre"></i>
+                <i class="fas fa-angle-double-right arrowTitre"></i> Algorithmique Appliquée <i class="fas fa-angle-double-left arrowTitre"></i>
             </h2>
         </div>
     </div>
